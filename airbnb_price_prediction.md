@@ -5,7 +5,7 @@ This project aims to predict Airbnb listing prices based on various property fea
 ##  Problem Statement
 Build a regression model to estimate the price of Airbnb listings based on features like location, property type, room type, number of reviews, and host characteristics.
 
-## ⚙️ Methods Used
+##  Methods Used
 - Data Cleaning and Feature Engineering  
 - Exploratory Data Analysis (EDA)  
 - One-Hot Encoding  
