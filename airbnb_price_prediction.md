@@ -26,6 +26,8 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
 - `ML_Proj_P1 (1).ipynb`: Jupyter notebook with complete workflow  
 - `README.md`: Project documentation
 
+ [Click here to view the full Jupyter Notebook](airbnb_price_prediction.ipynb)
+
 ---
 
 >  This project was completed as part of a Data Science Bootcamp for demo and learning purposes.
