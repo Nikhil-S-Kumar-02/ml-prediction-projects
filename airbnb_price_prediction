@@ -1,0 +1,31 @@
+# Airbnb Price Prediction using Machine Learning
+
+This project focuses on predicting Airbnb listing prices based on various property features. The goal is to help hosts better understand which factors influence pricing and provide data-driven recommendations to optimize their listings.
+
+##  Problem Statement
+Build a regression model to estimate the price of Airbnb listings based on attributes like location, property type, room type, number of reviews, and host characteristics.
+
+##  Methods Used
+- Data Cleaning and Feature Engineering
+- Exploratory Data Analysis (EDA)
+- One-Hot Encoding
+- Correlation Analysis
+- Model Building: Linear Regression, Random Forest Regressor
+- Hyperparameter Tuning
+- Model Evaluation using RMSE, MAE, R²
+
+##  Libraries & Tools
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
+
+##  Results & Insights
+- Model performed well with acceptable error metrics
+- Important features: Room type, Location, Number of reviews
+- Recommendations: Optimize pricing strategy based on feature importance
+
+##  Files Included
+- `ML_Proj_P1.ipynb`: Jupyter notebook with full workflow
+- `README.md`: This documentation
+
+---
+
+> This project was done as part of a Data Science Bootcamp. For demo purposes only.
