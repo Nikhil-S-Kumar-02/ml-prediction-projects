@@ -7,12 +7,12 @@ This repository contains two end-to-end machine learning projects focused on pre
 ### 1. Airbnb Price Prediction
 Predicts the price of Airbnb listings based on multiple features using regression algorithms.
 
- [View Project](./airbnb_price_prediction)
+ [View Project](./airbnb_price_prediction.md)
 
 ### 2. Customer Churn Prediction
 Classifies customers likely to churn based on service usage and demographic attributes.
 
- [View Project](./customer_churn_prediction)
+ [View Project](./customer_churn_prediction.md)
 
 ---
 
