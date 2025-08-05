@@ -23,7 +23,7 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
 - Recommendation: Optimize pricing strategies based on feature importance
 
 ##  Files Included
-- `ML_Proj_P1.ipynb`: Jupyter notebook with complete workflow  
+- `ML_Proj_P1 (1).ipynb`: Jupyter notebook with complete workflow  
 - `README.md`: Project documentation
 
 ---
