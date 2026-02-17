@@ -25,3 +25,4 @@ Classifies customers likely to churn based on service usage and demographic attr
 
 
 ---
+> This project was done for educational and demonstrative purposes.
