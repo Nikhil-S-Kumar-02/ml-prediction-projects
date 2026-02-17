@@ -29,3 +29,4 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
  [Click here to view the full Jupyter Notebook](airbnb_price_prediction.ipynb)
 
 ---
+> This project was done for educational and demonstrative purposes.
