@@ -37,4 +37,4 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
 
 ---
 
-> This project was done as part of a Data Science course assignment for educational and demonstrative purposes.
+> This project was done for educational and demonstrative purposes.
